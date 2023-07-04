@@ -6,9 +6,10 @@ I created this repository because I had this problem while using oh-my-posh with
 ## Usage:
 * First install the provided fonts
 * Then download the provided oh-my-posh themes and replace them  `C:\Users\<USER>\AppData\Local\Programs\oh-my-posh\themes`
-* Choose the theme you would like to use (https://ohmyposh.dev/docs/installation/customize#config-syntax) `oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression`
+* Choose the theme you would like to use following the instructions (https://ohmyposh.dev/docs/installation/customize#config-syntax). Here is the line of code for powershell users theme: `oh-my-posh init pwsh --config pathToTheme | Invoke-Expression`
 <br>
-<br>
+
+## Explanation:
 It seems they updated to v3 and there are missing glyphs but if you download older fonts there are still missing icons.
 <br>
 If you create your own custom font from the font patcher they provide, it simply didn't work for me (https://github.com/ryanoasis/nerd-fonts).
@@ -49,7 +50,7 @@ function ReplaceStr {
 ```
 
 <br>
-I personally replaced this ones into the following ones
+I personally replaced this unicode characters into the following ones
 
 SEARCH STRING -> REPLACE STRING
 <br>
@@ -62,6 +63,8 @@ SEARCH STRING -> REPLACE STRING
 * `\ue641` -> `\uf017`
 
 * `\ueb9e` -> `\uf989` 
+
+If you have any feature request open an issue or a pull request
 
 
 
