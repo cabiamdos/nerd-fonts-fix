@@ -17,7 +17,7 @@
           "properties": {
             "folder_icon": "\ue5ff",
             "folder_separator_icon": "/",
-            "home_icon": "\ueb06",
+            "home_icon": "\ufb9f",
             "style": "agnoster"
           },
           "style": "plain",
@@ -67,7 +67,7 @@
         {
           "foreground": "green",
           "style": "plain",
-          "template": "\u276f",
+          "template": "\uf641",
           "type": "text"
         }
       ],
@@ -77,6 +77,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

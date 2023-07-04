@@ -67,7 +67,7 @@
         {
           "foreground": "#007ACC",
           "style": "plain",
-          "template": "\u276f ",
+          "template": "\uf641 ",
           "type": "text"
         }
       ],
@@ -76,6 +76,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

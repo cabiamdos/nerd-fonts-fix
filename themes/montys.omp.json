@@ -19,7 +19,7 @@
           "properties": {
             "folder_icon": "\uf115",
             "folder_separator_icon": "\\",
-            "home_icon": "\ueb06",
+            "home_icon": "\ufb9f",
             "style": "full"
           },
           "style": "powerline",
@@ -101,7 +101,7 @@
         {
           "foreground": "#CD4277",
           "style": "plain",
-          "template": " <#45F1C2><b>\u26a1</b></><b>{{ .UserName }}</b> <#26C6DA>\u276f</><#45F1C2>\u276f</>",
+          "template": " <#45F1C2><b>\u26a1</b></><b>{{ .UserName }}</b> <#26C6DA>\uf641</><#45F1C2>\uf641</>",
           "type": "text"
         }
       ],
@@ -111,6 +111,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

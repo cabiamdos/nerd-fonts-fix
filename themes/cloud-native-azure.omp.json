@@ -83,7 +83,7 @@
           "powerline_symbol": "\ue0b2",
           "properties": {
             "charged_icon": "\ue22f ",
-            "charging_icon": "\ueb2d ",
+            "charging_icon": "\uf492 ",
             "discharging_icon": "\uf244 "
           },
           "style": "powerline",
@@ -145,6 +145,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

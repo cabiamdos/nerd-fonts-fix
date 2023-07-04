@@ -58,8 +58,8 @@
           ],
           "properties": {
             "charged_icon": "\uf240 ",
-            "charging_icon": "\ueb2d ",
-            "discharging_icon": "\ueb2d ",
+            "charging_icon": "\uf492 ",
+            "discharging_icon": "\uf492 ",
             "text": "\ue0b0"
           },
           "style": "powerline",
@@ -132,6 +132,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

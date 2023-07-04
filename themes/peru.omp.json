@@ -106,7 +106,7 @@
         {
           "foreground": "#43D426",
           "style": "plain",
-          "template": "\u276f ",
+          "template": "\uf641 ",
           "type": "text"
         }
       ],
@@ -115,6 +115,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

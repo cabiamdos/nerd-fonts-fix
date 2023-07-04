@@ -94,7 +94,7 @@
           "properties": {
             "folder_icon": "\uf07b",
             "folder_separator_template": "<#93d0ff> \u00bb </>",
-            "home_icon": "\ueb06",
+            "home_icon": "\ufb9f",
             "style": "agnoster"
           },
           "style": "plain",
@@ -118,7 +118,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "\u276f",
+          "template": "\uf641",
           "type": "exit"
         }
       ]
@@ -128,6 +128,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

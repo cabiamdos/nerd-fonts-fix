@@ -27,7 +27,7 @@
                     "properties": {
                         "folder_icon": "...",
                         "folder_separator_icon": "<transparent> \ue0bd </>",
-                        "home_icon": "\ueb06",
+                        "home_icon": "\ufb9f",
                         "style": "agnoster_short"
                     },
                     "style": "diamond",
@@ -137,7 +137,7 @@
                         "always_enabled": true
                     },
                     "style": "plain",
-                    "template": "\u276f ",
+                    "template": "\uf641 ",
                     "type": "exit"
                 }
             ],
@@ -147,6 +147,10 @@
     "console_title_template": "{{if .Root}} \u26a1 {{end}}{{.Folder | replace \"~\" \"🏚\" }} @ {{.HostName}}",
     "version": 2
 }
+
+
+
+
 
 
 

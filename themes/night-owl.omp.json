@@ -31,7 +31,7 @@
           "properties": {
             "folder_icon": "\uf07c ",
             "folder_separator_icon": "<#011627>\ue0b1</> ",
-            "home_icon": " \ueb06 ",
+            "home_icon": " \ufb9f ",
             "style": "agnoster"
           },
           "style": "powerline",
@@ -414,6 +414,10 @@
   },
   "version": 2
 }
+
+
+
+
 
 
 

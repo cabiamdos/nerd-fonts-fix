@@ -27,7 +27,7 @@
           "properties": {
             "folder_icon": "\uf115",
             "folder_separator_icon": " \ue0b1 ",
-            "home_icon": "\ueb06",
+            "home_icon": "\ufb9f",
             "style": "agnoster"
           },
           "style": "powerline",
@@ -65,6 +65,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

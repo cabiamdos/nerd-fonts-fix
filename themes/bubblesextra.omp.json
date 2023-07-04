@@ -165,7 +165,7 @@
           "foreground": "#E64747",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": "{{ .UserName }} \u276f",
+          "template": "{{ .UserName }} \uf641",
           "trailing_diamond": "\ue0b4",
           "type": "text"
         }
@@ -176,6 +176,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

@@ -115,7 +115,7 @@
           "invert_powerline": true,
           "leading_diamond": "\ue0b2",
           "properties": {
-            "charged_icon": "\ueb2d ",
+            "charged_icon": "\uf492 ",
             "charging_icon": "\uf492 ",
             "discharging_icon": "\uf243 "
           },
@@ -226,6 +226,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

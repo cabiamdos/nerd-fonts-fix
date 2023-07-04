@@ -87,7 +87,7 @@
           "properties": {
             "folder_icon": "<#000000>\ue5fe </>",
             "folder_separator_icon": "<#000000>\ue0b1 </>",
-            "home_icon": "\ueb06 ",
+            "home_icon": "\ufb9f ",
             "style": "agnoster_short"
           },
           "style": "diamond",
@@ -134,7 +134,7 @@
         {
           "foreground": "#1a1af5",
           "style": "plain",
-          "template": " \u276f ",
+          "template": " \uf641 ",
           "type": "text"
         }
       ],
@@ -145,6 +145,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

@@ -123,7 +123,7 @@
         {
           "foreground": "#ffffff",
           "style": "plain",
-          "template": "<#69FF94>\u276f</>",
+          "template": "<#69FF94>\uf641</>",
           "type": "text"
         }
       ],
@@ -133,6 +133,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

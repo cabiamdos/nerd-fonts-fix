@@ -92,7 +92,7 @@
           "properties": {
             "folder_icon": "<#B5B2C2>\ue5fe </>",
             "folder_separator_icon": "<#ffea00>\ue0b1 </>",
-            "home_icon": "\ueb06 ",
+            "home_icon": "\ufb9f ",
             "style": "agnoster_short"
           },
           "style": "diamond",
@@ -132,7 +132,7 @@
         {
           "foreground": "#ffea00",
           "style": "plain",
-          "template": " \u276f ",
+          "template": " \uf641 ",
           "type": "text"
         }
       ],
@@ -143,6 +143,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

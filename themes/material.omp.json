@@ -7,7 +7,7 @@
         {
           "foreground": "#ffffff",
           "style": "plain",
-          "template": "<#C591E8>\u276f</><#69FF94>\u276f</>",
+          "template": "<#C591E8>\uf641</><#69FF94>\uf641</>",
           "type": "text"
         },
         {
@@ -50,6 +50,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

@@ -84,7 +84,7 @@
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "style": "powerline",
-          "template": " {{ if not .Error }}{{ .Icon }}{{ .Percentage }}{{ end }}{{ .Error }}\uf295 \ueb2d ",
+          "template": " {{ if not .Error }}{{ .Icon }}{{ .Percentage }}{{ end }}{{ .Error }}\uf295 \uf492 ",
           "type": "battery"
         },
         {
@@ -141,6 +141,10 @@
   },
   "version": 2
 }
+
+
+
+
 
 
 

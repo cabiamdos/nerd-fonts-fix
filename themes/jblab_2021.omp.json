@@ -29,7 +29,7 @@
           "properties": {
             "folder_icon": "...",
             "folder_separator_icon": "<transparent> \ue0b1 </>",
-            "home_icon": "\ueb06",
+            "home_icon": "\ufb9f",
             "style": "agnoster_short"
           },
           "style": "diamond",
@@ -98,6 +98,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

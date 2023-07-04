@@ -46,7 +46,7 @@
         {
           "foreground": "#ffffff",
           "style": "plain",
-          "template": "<#CB4B16>\u276f</><#CACA02>\u276f</><#4E9A06>\u276f</> ",
+          "template": "<#CB4B16>\uf641</><#CACA02>\uf641</><#4E9A06>\uf641</> ",
           "type": "text"
         }
       ],
@@ -55,6 +55,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

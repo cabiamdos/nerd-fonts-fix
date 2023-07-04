@@ -127,8 +127,8 @@
           "type": "shell",
           "properties": {
             "mapped_shell_names": {
-              "pwsh": "\u276f",
-              "shell": "\u276f",
+              "pwsh": "\uf641",
+              "shell": "\uf641",
               "cmd": ">",
               "lua": ">",
               "nu": ":)",
@@ -144,6 +144,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

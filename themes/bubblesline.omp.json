@@ -130,7 +130,7 @@
           "foreground": "#9B6BDF",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": "{{ .UserName }} \u276f",
+          "template": "{{ .UserName }} \uf641",
           "trailing_diamond": "\ue0b4 ",
           "type": "session"
         }
@@ -140,6 +140,10 @@
   ],
   "version": 2
 }
+
+
+
+
 
 
 

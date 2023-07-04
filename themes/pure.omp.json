@@ -71,7 +71,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "\u276f ",
+          "template": "\uf641 ",
           "type": "exit"
         }
       ],
@@ -84,10 +84,14 @@
     "foreground_templates": [
       "{{ if gt .Code 0 }}#BF616A{{ end }}"
     ],
-    "template": "\u276f "
+    "template": "\uf641 "
   },
   "version": 2
 }
+
+
+
+
 
 
 

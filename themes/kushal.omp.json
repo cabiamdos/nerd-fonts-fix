@@ -165,7 +165,7 @@
           "properties": {
             "folder_icon": " \uf07c ",
             "folder_separator_icon": " \uf061 ",
-            "home_icon": "\ueb06 ",
+            "home_icon": "\ufb9f ",
             "style": "agnoster_short",
             "max_depth": 3
           },
@@ -192,7 +192,7 @@
             "always_enabled": true
           },
           "style": "plain",
-          "template": "\u276f ",
+          "template": "\uf641 ",
           "type": "exit"
         }
       ],
@@ -208,10 +208,14 @@
   "secondary_prompt": {
     "background": "transparent",
     "foreground": "#D6DEEB",
-    "template": "\u2570\u2500\u276f "
+    "template": "\u2570\u2500\uf641 "
   },
   "version": 2
 }
+
+
+
+
 
 
 

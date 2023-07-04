@@ -44,7 +44,7 @@
             "style": "agnoster_full",
             "home_icon": "home",
             "folder_icon": "\uf07b",
-            "folder_separator_icon": " \u276f "
+            "folder_separator_icon": " \uf641 "
           },
           "template": "\ue5ff {{ .Path }} "
         },
@@ -71,7 +71,7 @@
           "properties": {
             "always_enabled": true
           },
-          "template": "<#00c7fc>\u276f</>_: "
+          "template": "<#00c7fc>\uf641</>_: "
         }
       ]
     }
@@ -84,6 +84,10 @@
   },
   "version": 2
 }
+
+
+
+
 
 
 

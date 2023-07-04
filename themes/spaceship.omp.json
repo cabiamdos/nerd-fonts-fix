@@ -39,7 +39,7 @@
         {
           "foreground": "lightGreen",
           "style": "plain",
-          "template": "\u276f",
+          "template": "\uf641",
           "type": "text"
         }
       ],
@@ -49,6 +49,10 @@
   "final_space": true,
   "version": 2
 }
+
+
+
+
 
 
 

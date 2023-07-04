@@ -3,6 +3,8 @@
 
 I created this repository because I had this problem while using oh-my-posh with nerd fonts (https://github.com/ryanoasis/nerd-fonts/issues/1310).
 
+WARNING: it has only been tested on the VS code powershell terminal
+
 ## Usage:
 * First install the provided fonts
 * Then download the provided oh-my-posh themes and replace them  `C:\Users\<USER>\AppData\Local\Programs\oh-my-posh\themes`

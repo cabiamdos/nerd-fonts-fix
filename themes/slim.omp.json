@@ -135,7 +135,7 @@
         {
           "foreground": "#7a7a7a",
           "style": "plain",
-          "template": "~#@\u276f",
+          "template": "~#@\uf641",
           "type": "text"
         }
       ],
@@ -181,10 +181,14 @@
   "transient_prompt": {
     "background": "transparent",
     "foreground": "#7a7a7a",
-    "template": " ~#@\u276f "
+    "template": " ~#@\uf641 "
   },
   "version": 2
 }
+
+
+
+
 
 
 
