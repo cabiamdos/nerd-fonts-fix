@@ -2,6 +2,11 @@
 # Nerd fonts fix
 
 I created this repository because I had this problem while using oh-my-posh with nerd fonts (https://github.com/ryanoasis/nerd-fonts/issues/1310).
+
+## Usage:
+* First install the provided fonts
+* Then download the provided oh-my-posh themes and replace them  `C:\Users\<USER>\AppData\Local\Programs\oh-my-posh\themes`
+* Choose the theme you would like to use (https://ohmyposh.dev/docs/installation/customize#config-syntax) `oh-my-posh init pwsh --config ~/jandedobbeleer.omp.json | Invoke-Expression`
 <br>
 <br>
 It seems they updated to v3 and there are missing glyphs but if you download older fonts there are still missing icons.
