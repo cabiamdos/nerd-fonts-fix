@@ -1,1 +1,0 @@
-copy D:\MyFiles\AtomCodes\GiteaCoding\GC5-powershell-config\powershell-config\themes themes
