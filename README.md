@@ -3,7 +3,7 @@
 
 I created this repository because I had this problem while using oh-my-posh with nerd fonts (https://github.com/ryanoasis/nerd-fonts/issues/1310).
 
-WARNING: it has only been tested on the VS code powershell terminal
+WARNING: it has only been tested on the VS code powershell terminal. Some icons are still missing if you use the powershell without vscode.
 
 ## Usage:
 * First install the provided fonts
@@ -65,6 +65,10 @@ SEARCH STRING -> REPLACE STRING
 * `\ue641` -> `\uf017`
 
 * `\ueb9e` -> `\uf989` 
+
+<br>
+I also used this page (https://www.branah.com/unicode-converter) to copy, paste and decode unicode characters
+<br>
 
 If you have any feature request open an issue or a pull request
 
